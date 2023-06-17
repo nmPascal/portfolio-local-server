@@ -7,12 +7,12 @@ const express_1 = __importDefault(require("express"));
 require("dotenv-flow/config.js");
 const cors_1 = __importDefault(require("cors"));
 const express_graphql_1 = require("express-graphql");
-const schemas_1 = require("./schemas");
+const graphql_1 = require("./graphql");
 const db_json_1 = __importDefault(require("./data/db.json"));
 const app = (0, express_1.default)();
 const PORT = process.env.PORT || 5000;
 app.use("/graphql", (0, express_graphql_1.graphqlHTTP)({
-    schema: schemas_1.schema,
+    schema: graphql_1.schema,
     rootValue: db_json_1.default,
     graphiql: true,
 }));

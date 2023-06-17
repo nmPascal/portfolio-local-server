@@ -2,7 +2,9 @@ import express from "express";
 import "dotenv-flow/config.js";
 import cors from "cors";
 import { graphqlHTTP } from "express-graphql";
-import { schema } from "./schemas";
+
+import { schema } from "./graphql";
+
 import data from "./data/db.json";
 
 const app = express();
