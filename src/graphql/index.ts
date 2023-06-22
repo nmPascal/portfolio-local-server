@@ -1,3 +1,3 @@
-export * from "./rootQuerySchema";
-export * from "./skillsType";
-export * from "./projectType";
+export * from "./types";
+export * from "./resolvers";
+export * from "./schemas";
