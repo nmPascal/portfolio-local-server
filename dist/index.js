@@ -15,6 +15,6 @@ app.use((0, cors_1.default)({ origin: process.env.CLIENT_URL }));
 app.use("/graphql", (0, express_graphql_1.graphqlHTTP)({
     schema: graphql_1.schema,
     rootValue: db_json_1.default,
-    graphiql: true,
+    graphiql: "development" === process.env.NODE_ENV,
 }));
 app.listen(PORT, () => console.log(`Server running on port http://localhost:${PORT}`));

@@ -5,8 +5,7 @@
     "type": "commonjs",
     "node": ">= 16.0.0",
     "scripts": {
-        "dev": "tsc && nodemon dist/index.js",
-        "build": "tsc"
+        "dev": "tsc && nodemon dist/index.js"
     },
     "devDependencies": {
         "@types/cors": "^2.8.13",

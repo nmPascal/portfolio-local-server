@@ -15,7 +15,7 @@ app.use(cors({ origin: process.env.CLIENT_URL }));
 app.use("/graphql", graphqlHTTP({
     schema,
     rootValue: data,
-    graphiql: true,
+    graphiql: "development" === process.env.NODE_ENV,
 }));
 
 app.listen(PORT, () =>
