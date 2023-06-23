@@ -36,64 +36,60 @@
         {
             "id": "0bf9f001-40dc-4dd7-ae0f-504127ff3a05",
             "name": "Bubble Game",
-            "technologie": "javascript",
-            "source": "https://codepen.io/law-js/pen/vYZQzrd",
+            "primary_language": "javascript",
+            "technologies": ["javascript", "CSS"],
+            "source_code": null,
+            "live_demo": "https://codepen.io/law-js/pen/vYZQzrd",
             "description": "Voici un petit jeu amusant en Javascript dont le but est d'éclater des bulles.",
             "image": "./media/bubble.png"
         },
         {
             "id": "df968e12-5bdf-4dbd-94b9-6865f9f246a4",
             "name": "Flappy Bird",
-            "technologie": "javascript",
-            "source": "https://github.com/Law-js/Famous-Flappy-Bird",
+            "primary_language": "javascript",
+            "technologies": ["javascript", "CSS"],
+            "source_code": "https://github.com/Law-js/Famous-Flappy-Bird",
+            "live_demo": "",
             "description": "Création à ma manière du célèbre jeu Flappy Bird ayant eu un énorme succès lors de sa sortie en 2013.",
             "image": "./media/flappy.png"
         },
         {
             "id": "8a1e3b84-9e09-4def-aee6-047c5349cf3a",
             "name": "Form checker",
-            "technologie": "javascript",
-            "source": "https://codepen.io/law-js/pen/JjJezGx",
+            "primary_language": "javascript",
+            "technologies": ["javascript", "CSS"],
+            "source_code": null,
+            "live_demo": "https://codepen.io/law-js/pen/JjJezGx",
             "description": "Ce petit projet consistait à créer un formulaire dynamique avec la gestion d'erreurs.",
             "image": "./media/formChecker.png"
         },
         {
-            "id": "a1c14540-2504-48a5-9764-ceae22f6e71a",
-            "name": "Gradient Image",
-            "technologie": "javascript",
-            "source": "https://codepen.io/law-js/pen/mdwvMbE",
-            "description": "Voici une petite animation avec un dégradé de couleurs sur un sublime paysage nocturne.",
-            "image": "./media/gradient.png"
-        },
-        {
             "id": "c3f5c78c-1409-44c3-9104-4d67a70eb9f7",
             "name": "Mon Portfolio",
-            "technologie": "react",
-            "source": "https://github.com/Law-js/portfolio",
+            "primary_language": "react",
+            "technologies": ["react", "typescript", "graphql"],
+            "source_code": "https://github.com/Law-js/portfolio",
+            "live_demo": "https://p-hector-dev.netlify.app/",
             "description": "En effet, ce site est une application web monopage entièrement réalisée en React, Scss pour le style avec des bibliothèques comme Three.js pour l'animation de la terre ou Framer.js pour les transitions.",
             "image": "./media/cv.png"
         },
         {
             "id": "d7adb9b4-accf-4de1-b200-810cb9450831",
             "name": "Chez Sylvie",
-            "technologie": "javascript",
-            "source": "https://www.chez-sylvie.com",
+            "primary_language": "react",
+            "technologies": ["react", "typescript", "reducer"],
+            "source_code": null,
+            "live_demo": "https://www.chez-sylvie.com",
             "description": "Réalisation d'un site vitrine pour une pizzeria locale. N'hésitez pas à visiter le site et pourquoi pas passer commande ☺.",
             "image": "./media/pizz.png"
         },
         {
-            "id": "61dfa804-6960-492a-a817-4d9aaaa3b865",
-            "name": "FindQuickly",
-            "technologie": "node",
-            "source": "https://findquickly.netlify.app/",
-            "description": "FindQuickly ou FQ pour faire court, m'a missioné afin de créer une application Web basée sur une architecture MERN. ",
-            "image": "./media/fq.png"
-        },
-        {
-            "id": "283a8581-d8e2-4721-b05e-34d8c679fc1a",
+            "id": "7e59c67b-c7b2-4a8d-9483-325c3e06a3ce",
             "name": "Mon Portfolio",
-            "technologie": "node",
-            "source": "https://github.com/Law-js/portfolio",
+            "primary_language": "node",
+            "technologies": ["node", "typescript", "express", "graphql"],
+            "source_code": "https://github.com/Law-js/portfolio",
+            "live_demo": null,
             "description": "En effet, ce site est une application web monopage entièrement réalisée en React, Scss pour le style avec des bibliothèques comme Three.js pour l'animation de la terre ou Framer.js pour les transitions.",
             "image": "./media/cv.png"
         }
