@@ -28,9 +28,9 @@
         { "id": "3420199a-707b-46b2-acbe-5d7e04612b4e", "name": "MySQL", "beginning_date": "2018-01-01", "type": "databases" },
         { "id": "a2f84661-d1ae-4447-bc0b-d0d885adc45d", "name": "MongoDB", "beginning_date": "2018-01-01", "type": "databases" },
         { "id": "ecd6b973-fa8b-4e3e-b525-ca97f46676d3", "name": "Azure", "beginning_date": "2018-01-01", "type": "tools"},
-        { "id": "ecd6b973-fa8b-4e3e-b525-ca97f46676d3", "name": "SharePoint", "beginning_date": "2018-01-01", "type": "tools"},
-        { "id": "ecd6b973-fa8b-4e3e-b525-ca97f46676d3", "name": "Power Platform", "beginning_date": "2018-01-01", "type": "tools"},
-        { "id": "ecd6b973-fa8b-4e3e-b525-ca97f46676d3", "name": "Microsoft Teams", "beginning_date": "2018-01-01", "type": "tools"}
+        { "id": "400d8897-909a-4673-8e51-fa038cd6a036", "name": "SharePoint", "beginning_date": "2018-01-01", "type": "tools"},
+        { "id": "0ae16ae3-a132-4db6-a3f8-ca64c82da636", "name": "Power Platform", "beginning_date": "2018-01-01", "type": "tools"},
+        { "id": "1c523e5c-e343-429b-82ca-4cc6db14be30", "name": "Microsoft Teams", "beginning_date": "2018-01-01", "type": "tools"}
     ],
     "projects": [
         {
