@@ -7,7 +7,6 @@ exports.ProjectType = new graphql_1.GraphQLObjectType({
     fields: () => ({
         id: { type: graphql_1.GraphQLID },
         name: { type: graphql_1.GraphQLString },
-        primary_language: { type: graphql_1.GraphQLString },
         technologies: { type: new graphql_1.GraphQLList(graphql_1.GraphQLString) },
         source_code: { type: graphql_1.GraphQLString || null },
         live_demo: { type: graphql_1.GraphQLString || null },
