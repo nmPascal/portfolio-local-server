@@ -45,11 +45,20 @@
         {
             "id": "c3f5c78c-1409-44c3-9104-4d67a70eb9f7",
             "name": "My Portfolio",
-            "technologies": ["react", "node", "typescript", "graphql"],
+            "technologies": ["react", "typescript", "graphql"],
             "source_code": "https://github.com/Law-js/portfolio",
             "live_demo": "https://code-chronicle-bypascal.netlify.app/",
             "description": "My portfolio website: Node, React, TypeScript, GraphQL. Showcasing skills, experience, and projects in a sleek and interactive manner.",
             "image": "my_portfolio.png"
+        },
+        {
+            "id": "7e1fa9d2-58b8-4bdd-bcf6-9931e7225d9f",
+            "name": "GraphQL Server",
+            "technologies": ["node", "typescript", "graphql", "express"],
+            "source_code": "https://github.com/nmPascal/portfolio-server",
+            "live_demo": "https://code-chronicle-bypascal.netlify.app/",
+            "description": "A GraphQL server that serves data to my portfolio website.",
+            "image": "graphql_server.png"
         },
         {
             "id": "0bf9f001-40dc-4dd7-ae0f-504127ff3a05",
