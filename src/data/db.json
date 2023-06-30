@@ -34,6 +34,24 @@
     ],
     "projects": [
         {
+            "id": "d7adb9b4-accf-4de1-b200-810cb9450831",
+            "name": "Chez Sylvie",
+            "technologies": ["react", "typescript", "reducer"],
+            "source_code": null,
+            "live_demo": "https://www.chez-sylvie.com",
+            "description": "Creation of a showcase site for a local pizzeria that includes the menu, a random dish logic and a pizza quiz.",
+            "image": "chez_sylvie.png"
+        },
+        {
+            "id": "c3f5c78c-1409-44c3-9104-4d67a70eb9f7",
+            "name": "My Portfolio",
+            "technologies": ["react", "node", "typescript", "graphql"],
+            "source_code": "https://github.com/Law-js/portfolio",
+            "live_demo": "https://code-chronicle-bypascal.netlify.app/",
+            "description": "My portfolio website: Node, React, TypeScript, GraphQL. Showcasing skills, experience, and projects in a sleek and interactive manner.",
+            "image": "my_portfolio.png"
+        },
+        {
             "id": "0bf9f001-40dc-4dd7-ae0f-504127ff3a05",
             "name": "Bubble Game",
             "technologies": ["javascript", "CSS"],
@@ -59,24 +77,6 @@
             "live_demo": "https://codepen.io/nmpascal/pen/RwqVQRB",
             "description": "This small project involved creating a dynamic form with error handling.",
             "image": "form_checker.png"
-        },
-        {
-            "id": "c3f5c78c-1409-44c3-9104-4d67a70eb9f7",
-            "name": "My Portfolio",
-            "technologies": ["react", "node", "typescript", "graphql"],
-            "source_code": "https://github.com/Law-js/portfolio",
-            "live_demo": "https://p-hector-dev.netlify.app/",
-            "description": "My portfolio website: Node, React, TypeScript, GraphQL. Showcasing skills, experience, and projects in a sleek and interactive manner.",
-            "image": "my_portfolio.png"
-        },
-        {
-            "id": "d7adb9b4-accf-4de1-b200-810cb9450831",
-            "name": "Chez Sylvie",
-            "technologies": ["react", "typescript", "reducer"],
-            "source_code": null,
-            "live_demo": "https://www.chez-sylvie.com",
-            "description": "Creation of a showcase site for a local pizzeria that includes the menu, a random dish logic and a pizza quiz.",
-            "image": "chez_sylvie.png"
         }
     ]
 }
