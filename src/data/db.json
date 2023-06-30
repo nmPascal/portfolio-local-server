@@ -39,35 +39,35 @@
             "technologies": ["javascript", "CSS"],
             "source_code": null,
             "live_demo": "https://codepen.io/law-js/pen/vYZQzrd",
-            "description": "Voici un petit jeu amusant en Javascript dont le but est d'éclater des bulles.",
-            "image": "./media/bubble.png"
+            "description": "A fun little Javascript game about popping bubbles.",
+            "image": "bubble_game.png"
         },
         {
             "id": "df968e12-5bdf-4dbd-94b9-6865f9f246a4",
             "name": "Flappy Bird",
             "technologies": ["javascript", "CSS"],
-            "source_code": "https://github.com/Law-js/Famous-Flappy-Bird",
-            "live_demo": "",
-            "description": "Création à ma manière du célèbre jeu Flappy Bird ayant eu un énorme succès lors de sa sortie en 2013.",
-            "image": "./media/flappy.png"
+            "source_code": null,
+            "live_demo": "https://codepen.io/nmpascal/pen/qBQmxbX",
+            "description": "Creation in javascript of the famous Flappy Bird game, which was a huge success when it was released in 2013.",
+            "image": "flappy_bird.png"
         },
         {
             "id": "8a1e3b84-9e09-4def-aee6-047c5349cf3a",
             "name": "Form checker",
             "technologies": ["javascript", "CSS"],
             "source_code": null,
-            "live_demo": "https://codepen.io/law-js/pen/JjJezGx",
-            "description": "Ce petit projet consistait à créer un formulaire dynamique avec la gestion d'erreurs.",
-            "image": "./media/formChecker.png"
+            "live_demo": "https://codepen.io/nmpascal/pen/RwqVQRB",
+            "description": "This small project involved creating a dynamic form with error handling.",
+            "image": "form_checker.png"
         },
         {
             "id": "c3f5c78c-1409-44c3-9104-4d67a70eb9f7",
-            "name": "Mon Portfolio",
-            "technologies": ["react", "typescript", "graphql"],
+            "name": "My Portfolio",
+            "technologies": ["react", "node", "typescript", "graphql"],
             "source_code": "https://github.com/Law-js/portfolio",
             "live_demo": "https://p-hector-dev.netlify.app/",
-            "description": "En effet, ce site est une application web monopage entièrement réalisée en React, Scss pour le style avec des bibliothèques comme Three.js pour l'animation de la terre ou Framer.js pour les transitions.",
-            "image": "./media/cv.png"
+            "description": "My portfolio website: Node, React, TypeScript, GraphQL. Showcasing skills, experience, and projects in a sleek and interactive manner.",
+            "image": "my_portfolio.png"
         },
         {
             "id": "d7adb9b4-accf-4de1-b200-810cb9450831",
@@ -75,17 +75,8 @@
             "technologies": ["react", "typescript", "reducer"],
             "source_code": null,
             "live_demo": "https://www.chez-sylvie.com",
-            "description": "Réalisation d'un site vitrine pour une pizzeria locale. N'hésitez pas à visiter le site et pourquoi pas passer commande ☺.",
-            "image": "./media/pizz.png"
-        },
-        {
-            "id": "7e59c67b-c7b2-4a8d-9483-325c3e06a3ce",
-            "name": "Mon Portfolio",
-            "technologies": ["node", "typescript", "express", "graphql"],
-            "source_code": "https://github.com/Law-js/portfolio",
-            "live_demo": null,
-            "description": "En effet, ce site est une application web monopage entièrement réalisée en React, Scss pour le style avec des bibliothèques comme Three.js pour l'animation de la terre ou Framer.js pour les transitions.",
-            "image": "./media/cv.png"
+            "description": "Creation of a showcase site for a local pizzeria that includes the menu, a random dish logic and a pizza quiz.",
+            "image": "chez_sylvie.png"
         }
     ]
 }
