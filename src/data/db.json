@@ -61,13 +61,40 @@
             "image": "graphql_server.png"
         },
         {
-            "id": "0bf9f001-40dc-4dd7-ae0f-504127ff3a05",
-            "name": "Bubble Game",
-            "technologies": ["javascript", "CSS"],
+            "id": "773ab7eb-30d9-48bf-8254-b8556d2020dc",
+            "name": "QR Code Generator",
+            "technologies": ["react", "typescript", "reducer"],
+            "source_code": "https://github.com/nmPascal/qrcode-generator-app",
+            "live_demo": "https://my-custom-qrcode.netlify.app/",
+            "description": "A QR code generator that lets you customize the QR code with a logo and other settings",
+            "image": "qrcode_generator.png"
+        },
+        {
+            "id": "099a8ae4-88ec-4dde-915b-a6d27d71e9b2",
+            "name": "nmpascal-react-cli",
+            "technologies": ["node", "typescript"],
             "source_code": null,
-            "live_demo": "https://codepen.io/law-js/pen/vYZQzrd",
-            "description": "A fun little Javascript game about popping bubbles.",
-            "image": "bubble_game.png"
+            "live_demo": "https://www.npmjs.com/package/nmpascal-react-cli",
+            "description": "A npm package that generates a React project with TypeScript and Sass.",
+            "image": "npm_react_cli.png"
+        },
+        {
+            "id": "23a4b754-2e56-471b-9269-4286e8b7f969",
+            "name": "React Astronaut",
+            "technologies": ["react", "typescript", "sass"],
+            "source_code": "https://github.com/nmPascal/react-boilerplate",
+            "live_demo": "https://dyqxnt-3000.csb.app/",
+            "description": "A React boilerplate with TypeScript and Sass with a funny animation.",
+            "image": "react_astronaut.png"
+        },
+        {
+            "id": "29cea0a4-3339-4c3d-8a9d-5d3cd55779eb",
+            "name": "3D Earth",
+            "technologies": ["react", "typescript", "three"],
+            "source_code": "https://codesandbox.io/p/sandbox/earth-3d-nvhqts",
+            "live_demo": "https://nvhqts-5173.csb.app/",
+            "description": "A 3D Earth interactive with Three.js, Typescript and React.",
+            "image": "3d_earth.png"
         },
         {
             "id": "df968e12-5bdf-4dbd-94b9-6865f9f246a4",
