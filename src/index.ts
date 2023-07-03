@@ -8,7 +8,7 @@ import { schema } from "./graphql";
 import data from "./data/db.json";
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 4000;
 
 app.use(cors({ origin: process.env.CLIENT_URL }));
 
