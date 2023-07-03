@@ -1,5 +1,5 @@
 import express from "express";
-import "dotenv-flow/config.js";
+import "dotenv";
 import cors from "cors";
 import { graphqlHTTP } from "express-graphql";
 
