@@ -4,7 +4,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
-require("dotenv");
+require('dotenv').config();
 const cors_1 = __importDefault(require("cors"));
 const express_graphql_1 = require("express-graphql");
 const graphql_1 = require("./graphql");

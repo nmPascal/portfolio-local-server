@@ -1,5 +1,5 @@
 import express from "express";
-import "dotenv";
+require('dotenv').config();
 import cors from "cors";
 import { graphqlHTTP } from "express-graphql";
 
