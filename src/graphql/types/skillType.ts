@@ -5,6 +5,7 @@ export const SkillType = new GraphQLObjectType({
     fields: () => ({
         id: { type: GraphQLID },
         name: { type: GraphQLString },
+        icon: { type: GraphQLString },
         beginning_date: { type: GraphQLString },
         type: { type: GraphQLString },
     }),
