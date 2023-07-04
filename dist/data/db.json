@@ -46,7 +46,7 @@
             "id": "c3f5c78c-1409-44c3-9104-4d67a70eb9f7",
             "name": "My Portfolio",
             "technologies": ["react", "typescript", "graphql"],
-            "source_code": "https://github.com/Law-js/portfolio",
+            "source_code": "https://github.com/nmPascal/portfolio-webapp",
             "live_demo": "https://code-chronicle-bypascal.netlify.app/",
             "description": "My portfolio website: Node, React, TypeScript, GraphQL. Showcasing skills, experience, and projects in a sleek and interactive manner.",
             "image": "my_portfolio.png"
