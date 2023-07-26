@@ -83,7 +83,7 @@
             "name": "React Astronaut",
             "technologies": ["react", "typescript", "sass"],
             "source_code": "https://github.com/nmPascal/react-boilerplate",
-            "live_demo": "https://dyqxnt-3000.csb.app/",
+            "live_demo": null,
             "description": "A React boilerplate with TypeScript and Sass with a funny animation.",
             "image": "react_astronaut.png"
         },
@@ -92,7 +92,7 @@
             "name": "3D Earth",
             "technologies": ["react", "typescript", "three"],
             "source_code": "https://codesandbox.io/p/sandbox/earth-3d-nvhqts",
-            "live_demo": "https://nvhqts-5173.csb.app/",
+            "live_demo": null,
             "description": "A 3D Earth interactive with Three.js, Typescript and React.",
             "image": "3d_earth.png"
         },
