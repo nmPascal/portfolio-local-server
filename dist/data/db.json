@@ -32,7 +32,8 @@
         { "id": "0ae16ae3-a132-4db6-a3f8-ca64c82da636", "name": "Power Platform", "icon": "microsoft-svgrepo-com.svg", "beginning_date": "2022-10", "type": "tools" },
         { "id": "1c523e5c-e343-429b-82ca-4cc6db14be30", "name": "Microsoft Teams", "icon": "microsoft-teams-svgrepo-com.svg", "beginning_date": "2020-12", "type": "tools" },
         { "id": "5b3dbab2-db94-4653-b85c-8cfd032d402f", "name": "Tailwind CSS", "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg", "beginning_date": "2021-05", "type": "frontend" },
-        { "id": "9d37b1eb-3993-4948-b7f5-d918e0027320", "name": "Material UI", "icon": "mui.svg", "beginning_date": "2021-05", "type": "frontend" }
+        { "id": "9d37b1eb-3993-4948-b7f5-d918e0027320", "name": "Material UI", "icon": "mui.svg", "beginning_date": "2021-05", "type": "frontend" },
+        { "id": "dcb305bc-2eb5-484f-8ee7-2d74084f14bf", "name": "Heroku", "icon": "heroku-icon-svgrepo-com.svg", "beginning_date": "2022-11", "type": "backend" }
     ],
     "projects": [
         {
