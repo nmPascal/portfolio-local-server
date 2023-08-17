@@ -30,7 +30,9 @@
         { "id": "ecd6b973-fa8b-4e3e-b525-ca97f46676d3", "name": "Azure", "icon": "azure-svgrepo-com.svg", "beginning_date": "2022-02", "type": "tools"},
         { "id": "400d8897-909a-4673-8e51-fa038cd6a036", "name": "SharePoint", "icon": "ms-sharepoint-svgrepo-com.svg", "beginning_date": "2022-02", "type": "tools"},
         { "id": "0ae16ae3-a132-4db6-a3f8-ca64c82da636", "name": "Power Platform", "icon": "microsoft-svgrepo-com.svg", "beginning_date": "2022-10", "type": "tools"},
-        { "id": "1c523e5c-e343-429b-82ca-4cc6db14be30", "name": "Microsoft Teams", "icon": "microsoft-teams-svgrepo-com.svg", "beginning_date": "2020-12", "type": "tools"}
+        { "id": "1c523e5c-e343-429b-82ca-4cc6db14be30", "name": "Microsoft Teams", "icon": "microsoft-teams-svgrepo-com.svg", "beginning_date": "2020-12", "type": "tools"},
+        { "id": "5b3dbab2-db94-4653-b85c-8cfd032d402f", "name": "Tailwind CSS", "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg", "beginning_date": "2021-05", "type": "frontend"},
+        { "id": "9d37b1eb-3993-4948-b7f5-d918e0027320", "name": "Material UI", "icon": "mui.svg", "beginning_date": "2021-05", "type": "frontend"}
     ],
     "projects": [
         {
